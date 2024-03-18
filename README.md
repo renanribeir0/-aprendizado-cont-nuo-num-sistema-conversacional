@@ -27,3 +27,8 @@ Utiliza algoritmos de aprendizado incremental, como o Online Learning, para ajus
 
 ### Conclusão
 A proposta de implementar um sistema de aprendizado contínuo em sistemas conversacionais visa mitigar os desafios decorrentes da falta de atualização dos modelos. Embora demande esforço inicial para desenvolvimento e integração dos diferentes blocos, a implementação dessa solução pode trazer benefícios significativos a longo prazo, garantindo que o sistema permaneça relevante e eficaz em face das mudanças constantes na linguagem e nos contextos de uso.
+
+### Referências Bibliográficas
+Gama, J., Sebastião, R., & Rodrigues, P. (2009). Issues in evaluation of stream learning algorithms. In Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining (pp. 329-338).
+Nguyen, T. B., Nguyen, T. T., Nguyen, L. M., & Pham, S. B. (2019). A survey on concept drift adaptation. ACM Computing Surveys (CSUR), 52(4), 1-38.
+Raza, K., Iqbal, W., & Celebi, M. E. (2020). A systematic review on concept drift adaptation. Applied Soft Computing, 96, 106634.
