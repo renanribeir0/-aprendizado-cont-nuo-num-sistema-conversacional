@@ -9,7 +9,7 @@ Para resolver o problema do aprendizado contínuo em relação aos sistemas conv
 
 ### Diagrama de Blocos
 
-<img width="362" alt="image" src="https://github.com/renanribeir0/-aprendizado-cont-nuo-num-sistema-conversacional/assets/110369271/ffa3d163-9a39-4f2a-bea8-a75535b08dd0">
+<img width="309" alt="image" src="https://github.com/renanribeir0/-aprendizado-cont-nuo-num-sistema-conversacional/assets/110369271/92d5e6f5-68dc-412a-862f-3bcd291e7f55">
 
 
 ### Descrição dos Blocos
